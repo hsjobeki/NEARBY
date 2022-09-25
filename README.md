@@ -1,0 +1,2 @@
+# NEARBY
+Nix Verdaccio Plugin
