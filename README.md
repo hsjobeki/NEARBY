@@ -13,6 +13,11 @@ Instead you can use a "private registry" and use tools like npm, maven, apt etc.
 
 Prevent unwanted mess in a real registry, be not storing any state and finally use a registry what it should be: only a cache. 
 
+## Status
+
+🟩 Draft the idea
+🟦 Implement a first Prototype
+
 ## Contribute
 
 Feel free to send me your PR 
