@@ -15,8 +15,9 @@ Prevent unwanted mess in a real registry, be not storing any state and finally u
 
 ## Status
 
-🟩 Draft the idea
-🟦 Implement a first Prototype
+- 🟩 Draft the idea
+
+- 🟦 Implement a first Prototype
 
 ## Contribute
 
